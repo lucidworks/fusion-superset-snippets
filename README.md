@@ -1,4 +1,6 @@
-# fusion-superset-snippets (Currently on Part 1 but this README and Repo will evolve as we dive further into the integration)
+# fusion-superset-snippets 
+
+Please note: currently on Part 1 but this README and Repo will evolve as we dive further into the integration.
  
 Here is a repo storing all the snippets you can use to verify if your configurations are correct. The following highlights what each file is and how it is useful.
 
