@@ -1,0 +1,3 @@
+# the list of services that should be started with "bin/fusion start"
+# optional services are spark-master, spark-worker, sql
+group.default = zookeeper, solr, api, connectors-classic, connectors-rpc, proxy, webapps, admin-ui, sql, log-shipper, spark-master, spark-worker
