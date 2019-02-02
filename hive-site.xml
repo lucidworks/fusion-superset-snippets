@@ -223,7 +223,7 @@ cat: cat: No such file or directory
 
  <property>
     <name>hive.exec.scratchdir</name>
-    <value>/Users/marcussorealheis/Documents/fusion/var/sql/tmp</value>
+    <value>/${FUSION_HOME}/var/sql/tmp</value>
   </property>
 
   <property>
